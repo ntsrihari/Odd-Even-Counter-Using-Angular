@@ -1,0 +1,11 @@
+@import "~normalize.css/normalize.css";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+/* body {
+  background-image: url("https://preview.redd.it/d68js7ngv4261.png?width=3840&format=png&auto=webp&s=5e584a3c9a226162af2e6c8229b4752dfe6a6d27");
+  background-size: cover;
+  backdrop-filter: blur(5px);
+  min-height: 100%;
+} */
