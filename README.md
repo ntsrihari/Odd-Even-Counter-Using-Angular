@@ -2,7 +2,6 @@
 
 This is a simple Demo App for demonstrating #Event Binding in Angular.
 
-![](http://i.imgur.com/OUkLi.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
