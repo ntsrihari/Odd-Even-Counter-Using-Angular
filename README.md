@@ -2,7 +2,7 @@
 
 This is a simple Demo App for demonstrating #Event Binding in Angular.
 
-![Alt Text]('https://s4.gifyu.com/images/binding-2.gif')
+![](http://i.imgur.com/OUkLi.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
