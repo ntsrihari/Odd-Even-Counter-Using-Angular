@@ -6,7 +6,7 @@ import { Component, OnInit, EventEmitter, Output } from '@angular/core';
   styleUrls: ['./game-control.component.css'],
 })
 export class GameControlComponent implements OnInit {
-  interval = 0;
+  interval:any = 0;
   lastNumber = 0;
   @Output() intervalFired = new EventEmitter<number>();
   @Output() pauseFired = new EventEmitter<number>();
